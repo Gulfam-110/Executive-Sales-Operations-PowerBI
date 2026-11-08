@@ -1,5 +1,5 @@
 # Enterprise Sales Velocity & Operational Risk Intelligence (Power BI)
-
+[![Live Interactive Dashboard](https://img.shields.io/badge/Live_Dashboard-Click_to_View_in_Browser-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmVlZjNtMzRiOS00MzdilTk5OTItYWRkYjRlNmE2OWI1IiwidCI6IjgzYTBmZDMxLWE5NzAtNGVhYS05NmU3LWRkNmIzOTk0ZmM0MSJ9)
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop_%26_Service-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Architecture](https://img.shields.io/badge/Data_Model-Star_Schema-blue)](#data-architecture--relational-integrity)
 [![Logic](https://img.shields.io/badge/DAX-Custom_Measures-orange)](#core-dax-calculation-engine)
